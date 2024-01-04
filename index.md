@@ -19,8 +19,7 @@ Hier könnte eine kurze Beschreibung des Paares stehen.
 
 ## Bilder
 
-![Bild 1](Bulb2.png)
-![Bild 2](profil.png)
+![Bild 1](ringe.png)
 <!-- Füge weitere Bilder nach Bedarf hinzu -->
 
 © [Jahr] Hochzeit von [Name]
