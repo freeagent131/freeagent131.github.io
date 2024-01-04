@@ -2,7 +2,7 @@
 layout: default
 title: Hochzeit von [Name]
 ---
-
+![Bild 1](ringe.jpg)
 # Willkommen zur Hochzeit von [Name]!
 
 Wir freuen uns sehr, diesen besonderen Tag mit euch zu teilen.
@@ -17,9 +17,7 @@ Wir freuen uns sehr, diesen besonderen Tag mit euch zu teilen.
 
 Hier könnte eine kurze Beschreibung des Paares stehen.
 
-## Bilder
 
-![Bild 1](ringe.png)
 <!-- Füge weitere Bilder nach Bedarf hinzu -->
 
 © [Jahr] Hochzeit von [Name]
